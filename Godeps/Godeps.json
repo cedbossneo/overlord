@@ -4,18 +4,18 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/coreos/fleet/log",
-			"Comment": "v0.8.3",
-			"Rev": "647eca78638168d650bfe34614cef1f064e770bb"
+			"Comment": "v0.9.0",
+			"Rev": "2d5c6bb0751ad3a50c0a219158439071a59e549f"
 		},
 		{
 			"ImportPath": "github.com/coreos/fleet/pkg",
-			"Comment": "v0.8.3",
-			"Rev": "647eca78638168d650bfe34614cef1f064e770bb"
+			"Comment": "v0.9.0",
+			"Rev": "2d5c6bb0751ad3a50c0a219158439071a59e549f"
 		},
 		{
 			"ImportPath": "github.com/coreos/fleet/unit",
-			"Comment": "v0.8.3",
-			"Rev": "647eca78638168d650bfe34614cef1f064e770bb"
+			"Comment": "v0.9.0",
+			"Rev": "2d5c6bb0751ad3a50c0a219158439071a59e549f"
 		},
 		{
 			"ImportPath": "github.com/coreos/go-systemd/unit",
@@ -24,7 +24,7 @@
 		},
 		{
 			"ImportPath": "github.com/metral/goutils",
-			"Rev": "5995e4014745389760125c10f30e7d72f71b0ea2"
+			"Rev": "b3251945499cfb33521c418d90d4d926b9b5fc69"
 		}
 	]
 }
